@@ -30,7 +30,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 gem 'bulma-rails', '~> 0.8.0'
 gem 'devise', '~> 4.7', '>= 4.7.1'
-gem 'carrierwave', '~> 2.0', '>= 2.0.2'
+gem 'carrierwave', '~> 2.1'
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem 'impressionist', '~> 1.6', '>= 1.6.1'
 gem 'gravatar_image_tag', '~> 1.2'
